@@ -1,0 +1,21 @@
+.menu{
+    background-color: aqua;
+    color:red;
+    display:flex;
+    margin-left: 50px;
+    padding:25px;
+}
+.grid{
+    background-color:#808080 ;
+    color: tomato;
+}
+.grid2{
+    background-color: violet;
+}
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
